@@ -4,3 +4,9 @@ function findMatching(array, name){
     });
 }
 
+function fuzzyMatch(array, string){
+    return array.filter(item => {
+    return item.startsWith(string);
+    });
+}
+
