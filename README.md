@@ -1,4 +1,6 @@
-# Iterator Drill: Filter
+
+Done.
+➜  fewpjs-iterators-fndcl-fnexpr-find-lab-onl01-seng-ft-052620 git:(master)# Iterator Drill: Filter
 
 ## Learning Goals
 
